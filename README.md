@@ -17,7 +17,7 @@
 ➤:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshi-dixit-2b666b1a0/)
 
 
----
+--
 
 ## :hammer_and_wrench: Languages and Tools :
 
