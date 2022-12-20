@@ -1,6 +1,5 @@
   # *Hi! I am Vedanshi Dixit*   <img src="https://media.giphy.com/media/C7o9DQBDU9WNLdacG1/giphy.gif" width="100"/>
  
- --- 
  
  <br>
  <br>
@@ -24,7 +23,9 @@
 ---
 
 
-
+<br>
+ <br>
+ <br>
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -48,7 +49,9 @@
 
 ---
 
-
+<br>
+ <br>
+ <br>
 
 
 ### :fire: My Stats :
