@@ -1,5 +1,6 @@
 <div id="header" align="center" display="flex">
-  ##Hi! I am Vedanshi Dixit##<img src="https://media.giphy.com/media/C7o9DQBDU9WNLdacG1/giphy.gif" width="100"/>
+  ##Hi! I am Vedanshi Dixit 
+  <img src="https://media.giphy.com/media/C7o9DQBDU9WNLdacG1/giphy.gif" width="100"/>
 </div>
 
 <!--
