@@ -11,3 +11,5 @@
 ➤The main area of expertise is 🔺Front-end Web Development🔻, HTML, CSS, javascript, React, building web apps, features and coding layouts.
 
 ➤I also have knowledge about 🔺Full stack development🔻, Node.js, Express, MongoDB.I worked on multiple full-stack projects during two months internship with Nagarro.
+
+➤:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshi-dixit-2b666b1a0/)
