@@ -58,4 +58,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vedanshidixit&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
+
+ <br>
+ <br>
+<br>
+<br>
+
+
+## :fire: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshidixit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
