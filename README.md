@@ -3,7 +3,7 @@
  
  <br>
  <br>
- <br>
+
  
   ## :woman_technologist: About Me :
   
@@ -19,12 +19,12 @@
 
 ➤:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vedanshi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedanshi-dixit-2b666b1a0/)
 
-
+ <br>
+ <br>
 ---
 
 
 <br>
- <br>
  <br>
 
 ## :hammer_and_wrench: Languages and Tools :
@@ -46,11 +46,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/>&nbsp;
 </div>
 
-
+ <br>
+ <br>
 ---
 
 <br>
- <br>
  <br>
 
 
